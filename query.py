@@ -2,7 +2,7 @@ import pyodbc
 import pandas as pd
 
 conx_string = "DRIVER= {SQL SERVER} ; SERVER=DESKTOP-1VFJKRB\SQLEXPRESS; database=UC2_DHSANG; trusted_connection=YES;" #TODO:run driver.py to check
-query = "SELECT * FROM UC2_DHSANG.dbo.products"
+query = "SELECT * FROM UC2_DHSANG.dbo.products" #survey
 
 conx = pyodbc.connect(conx_string)
 cursor = conx.cursor()

@@ -9,3 +9,5 @@ https://nbviewer.org/github/israel-dryer/Python-Tutorials/blob/master/pyodbc-tut
 
 ----OTHER--------------------------------
 https://viblo.asia/p/sql-data-types-L4x5xGerlBM
+https://www.youtube.com/watch?v=FStvfHABnNc
+https://www.youtube.com/watch?v=0E4AuCqgN90
